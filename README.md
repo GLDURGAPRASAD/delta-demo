@@ -1,2 +1,3 @@
 # delta-demo
-thia is a demo of GIT and GITHUB
+thia is a demo of GIT and GITHUB.
+
